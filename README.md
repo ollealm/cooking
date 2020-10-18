@@ -5,6 +5,7 @@ Project info
 ## Core Tech
 
 - React
+- BEM
 
 ## Screenshot
 
